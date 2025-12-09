@@ -3,7 +3,7 @@
 Applied analytics project for the Michigan State STT-810 graduate course. The repository packages anonymized usage logs, a reproducible exploratory notebook, and refreshed narrative insights on how students rely on AI support tools.
 
 ## Repository Contents
-- `analysis/ida_eda.ipynb` holds the exploratory data analysis with staged visuals, statistical tests, and live narrative commentary.
+- `analysis/ida_eda.ipynb` holds the initial and exploratory data analysis (IDA/EDA) with staged visuals, statistical tests, and live narrative commentary.
 - `data/AI_usage_data.csv` is the cleaned interaction log used throughout the notebook.
 - `README.md` (this file) captures the latest study highlights and operational guidance.
 
