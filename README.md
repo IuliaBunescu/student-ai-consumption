@@ -16,7 +16,7 @@ Applied analytics project for the Michigan State STT-810 graduate course. The re
 | --- | --- |
 | Participation landscape | 9,551 records across 7 disciplines, 3 student levels, and 6 task types. |
 | Satisfaction profile | Mean 3.58 (median 3.60, skew 0.85); bootstrap 95% CI [3.55, 3.61]; 38.9% of sessions score at least 4/10. |
-| Segment highlights | Writing tasks average 3.66 satisfaction; undergraduates lead graduates by 0.13 points (p = 0.0002). |
+| Segment highlights | Writing tasks average 3.66 satisfaction; undergraduates lead graduates by 0.13 points (Welch's t-test p = 0.0002). |
 | Engagement intensity | Average session length 20.78 minutes, prompts 5.87, assistance level 3.64; prompts correlate with session length (r = 0.908) but loosely with satisfaction. |
 | Repeat usage | 69.7% of students return; repeat users register 0.13 higher satisfaction on average (Welch p < 0.001). |
 | Assistance impact | Linear fit: satisfaction ≈ 0.23 + 0.92 × assistance (R² = 0.719); correlation 0.848. |
